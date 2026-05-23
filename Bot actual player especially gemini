@@ -1,0 +1,1 @@
+pm2 start index.js --name "my-bot" --max-memory-restart 256M --watch
